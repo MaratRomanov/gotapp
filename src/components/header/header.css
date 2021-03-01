@@ -1,0 +1,32 @@
+.header-block {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.header-block h3 {
+    font-size: 24px;    
+}
+
+.header-block a{
+    color: #fff;
+}
+
+.header-block a:hover{
+    color: lightblue
+}
+
+.header-block-ul {
+    display: flex;
+    margin: 0;
+    align-items: center;    
+    list-style-type: none;    
+}
+
+.header-block-ul li {
+    margin-right: 20px;
+    font-size: 18px;
+}
+

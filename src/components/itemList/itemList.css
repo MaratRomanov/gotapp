@@ -1,0 +1,20 @@
+.item-list {
+    background-color: #fff;
+    margin-bottom: 40px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-list-inform-line{
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;    
+}
+
+.item-list-inform-line:last-child{
+    border: none
+}
+
+.item-list-inform-line:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+.random-char {
+    background-color: #fff;
+    padding: 25px;
+    margin-bottom: 40px;
+    border-radius: 4px;
+}
+
+.random-char h4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.random-char-inform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.random-char-inform-span {
+    font-weight: 700;
+}
+
+.random-char-inform-line{
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+    justify-content: space-between;
+}
+
+.random-char-inform-hr{
+    background-color: #ccc;
+    width: 95%;
+    height: 0.5px;
+    opacity: 0.5;
+}

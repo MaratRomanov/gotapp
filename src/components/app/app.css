@@ -1,0 +1,20 @@
+.show-char-btn{
+    width: 150px;
+    height: 50px;
+    background-color: lightblue;
+    border-radius: 4px;
+    margin: 0 0 40px 0;
+    border: none;
+    font-weight: 500;
+}
+
+.app {
+    background: blue url('got.jpeg') center center no-repeat;
+    background-size: cover;
+    height: 100vh;	
+}
+
+.app h1{    
+    color: white;
+    text-align: center;    
+}
